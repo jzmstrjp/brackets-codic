@@ -1,0 +1,23 @@
+{
+	"name": "codic",
+	"title": "codic",
+	"description": "codic extension",
+	"version": "1.0.1",
+	"keywords": ["codic","function","variable","name"],
+	"homepage": "https://github.com/jzmstrjp/brackets-codic",
+	"author": "jzmstrjp",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.10.0"
+	},
+	"i18n": [
+		"en",
+		"ja"
+	],
+	"package-i18n":{
+		"ja":{
+			"description": "変数名や関数名を考えてくれるcodicの拡張機能です。",
+			"title": "変数名考え太郎(codic)"
+		}
+	}
+}
